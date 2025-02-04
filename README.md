@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Abenezer Nigussie
 
-I'm a passionate Full-stack developer who loves building cool stuff with code. My interests include web development, machine learning, and open-source contributions. Feel free to explore my projects and connect with me!
+I'm a passionate Full-stack developer and Junior data Engineer who loves building cool stuff with code. My interests include web development, machine learning, and open-source contributions. Feel free to explore my projects and connect with me!
 
 - 🔭 I’m currently working on **[Credit Score Bank](https://github.com/abenaacs/Credit_Score_Bati_Bank)**
 - 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**
