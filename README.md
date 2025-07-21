@@ -3,7 +3,7 @@
 
 I'm a passionate Full-stack developer and Junior data Engineer who loves building cool stuff with code. My interests include web development, machine learning, and open-source contributions. Feel free to explore my projects and connect with me!
 
-- 🔭 I have worked on **[Credit Score Bank](https://github.com/abenaacs/Credit_Score_Bati_Bank)**
+- 🔭 I have worked on **[EthioStockLink-Lite](https://github.com/abenaacs/EthioStockLink_Lite)**
 - 🌱 I’m currently learning **Oracle DevOps Specialist** and **ORacle Data Science specialist**
 - 💬 Ask me about **JavaScript**, **Flutter**, **Python**, **React**, or **Docker**
 - 📫 Reach out to me via [Email](mailto:abenezernigussiecs@gmail.com) or connect with me on [[LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/abenezer-nigussie-cs/))
